@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "include-component-in-tag": true,
+  "tag-separator": "-",
+  "packages": {
+    "catalogs/catalog_alpha": {
+      "release-type": "simple",
+      "component": "catalog_alpha",
+      "changelog-path": "catalogs/catalog_alpha/CHANGELOG.md",
+      "extra-files": [
+        "catalogs/catalog_alpha/version.txt"
+      ]
+    },
+    "catalogs/catalog_beta": {
+      "release-type": "simple",
+      "component": "catalog_beta",
+      "changelog-path": "catalogs/catalog_beta/CHANGELOG.md",
+      "extra-files": [
+        "catalogs/catalog_beta/version.txt"
+      ]
+    },
+    "catalogs/catalog_gamma": {
+      "release-type": "simple",
+      "component": "catalog_gamma",
+      "changelog-path": "catalogs/catalog_gamma/CHANGELOG.md",
+      "extra-files": [
+        "catalogs/catalog_gamma/version.txt"
+      ]
+    }
+  }
+}

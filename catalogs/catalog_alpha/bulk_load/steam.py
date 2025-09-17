@@ -1,0 +1,8 @@
+# no need for real code
+# something 20394420
+
+a = 0
+while True:
+    a += 1
+    if a == 10:
+        break
