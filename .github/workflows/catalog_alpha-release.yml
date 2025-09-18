@@ -7,6 +7,7 @@ on:
       - 'catalogs/catalog_alpha/**/*.py'
       - '.release-please-manifest.json'
       - 'release-please-config.json'
+  workflow_dispatch:
 
 permissions:
   contents: write
