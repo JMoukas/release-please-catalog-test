@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.3.0](https://github.com/JMoukas/release-please-catalog-test/compare/catalog_alpha-v0.2.0...catalog_alpha-v0.3.0) (2025-09-19)
+## [0.3.0](https://github.com/JMoukas/release-please-catalog-test/compare/catalog_alpha-v0.2.0...catalog_alpha-v0.3.0) (2025-09-22)
 
 
 ### Features
